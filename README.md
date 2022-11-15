@@ -1,4 +1,8 @@
- <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=TypeScript&logoColor=black"/>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyuhunsim)](https://solved.ac/kyuhunsim)<br/>
+
+
 <!--
 **kyuhunsim/kyuhunsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
