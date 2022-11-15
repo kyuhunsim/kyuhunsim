@@ -1,3 +1,8 @@
+#KyuHun Sim
+
+#Skills
+![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=#3776AB)
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyuhunsim)](https://solved.ac/kyuhunsim)<br/>
