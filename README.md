@@ -15,7 +15,7 @@
 
 ## Side Projects & Studying
 
-* [<span style="color:Black">Algorithm study </span>](https://github.com/kyuhunsim/algorithm)
+* [<span style="color:Black">Algorithm study (2021.AUG~) </span>](https://github.com/kyuhunsim/algorithm)
 <br/>
 
 ## Tech Staack
