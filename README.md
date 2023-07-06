@@ -3,7 +3,7 @@
 ## ABOUT ME
 ### I'm a student of SungKyunKwan University, I am in the Department of Mechanical Engineering.
 ### I'm interested in ROBOT manipulation, ROBOT grasp quality, Computer vision
-### I'm in undergraduate student in SungKyunKwan University RISELAB
+### I'm a undergraduate student in SungKyunKwan University RISELAB
 </br>
 
 [![Tistory]](https://zzskh.tistory.com)
@@ -11,6 +11,9 @@
 
 ## Personal Projects
 
+* [<span style="color:Black">Predicting car type by using Swin-Transformer V2(2022.Oct~2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
+<br/>
+* [<span style="color:Black">Paper_Review(2020.Feb~) </span>](https://github.com/kyuhunsim/Paper_Review)
 <br/>
 
 ## Side Projects & Studying
@@ -18,7 +21,7 @@
 * [<span style="color:Black">Algorithm study (2021.AUG~) </span>](https://github.com/kyuhunsim/algorithm)
 <br/>
 
-## Tech Staack
+## Tech Stack
 
 ### Languages
 
