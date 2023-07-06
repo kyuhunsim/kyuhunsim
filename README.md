@@ -1,5 +1,13 @@
-# KyuHun Sim
+# ** KyuHun Sim **
 
+## ABOUT ME
+### I'm a student of SungKyunKwan University, I am in the Department of Mechanical Engineering.
+### I'm interested in ROBOT manipulation, ROBOT grasp quality, Computer vision
+### I'm in undergraduate student in SungKyunKwan University RISELAB
+</br>
+
+[![Tistory]](https://zzskh.tistory.com)
+[![RISELAB]](https://rise.skku.edu)
 
 ## Personal Projects
 
@@ -7,6 +15,7 @@
 
 ## Side Projects & Studying
 
+* [<span style="color:Black">Algorithm study </span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
 <br/>
 
 ## Tech Staack
@@ -31,6 +40,9 @@
 <br/>
 
 
+
+[RISELAB]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=RISELAB&logo=RISELAB
+[Tistory]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e95420&logoColor=e95420&label=&message=Tistory&logo=Tistory
 [c]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=C&logo=c&#A8B9CC
 [ROS]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=ROS&logo=Ros
 [numpy]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=numpy&logo=numpy
