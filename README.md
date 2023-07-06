@@ -9,6 +9,11 @@
 [![Tistory]](https://zzskh.tistory.com)
 [![RISELAB]](https://rise.skku.edu)
 
+## :office: Career
+* NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/
+* RISELAB Intern (2023.Jun~) https://rise.skku.edu
+<br/>
+
 ## Personal Projects
 
 * [<span style="color:Black"> Predicting car type by using Swin-Transformer V2 (2022.Oct ~ 2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
