@@ -23,7 +23,7 @@
 
 * [<span style="color:Black">Algorithm study (2021.AUG~) </span>](https://github.com/kyuhunsim/algorithm)
 
-## Tech Stack
+## 💻Tech Stack
 
 ### Languages
 
