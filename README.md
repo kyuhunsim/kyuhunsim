@@ -12,19 +12,16 @@
 ## :office: Career
 * NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/
 * RISELAB Intern (2023.Jun~) https://rise.skku.edu
-<br/>
 
 ## Personal Projects
 
 * [<span style="color:Black"> Predicting car type by using Swin-Transformer V2 (2022.Oct ~ 2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
 * [<span style="color:Black"> Deeplearning and Machinelearning Paper Review (2020.Feb~)</span>](https://github.com/kyuhunsim/Paper_Review)
 * [<span style="color:Black"> Car_detection project for the KMU autonomous driving contest (2023.Jul~)</span>](https://github.com/kyuhunsim/Car_detection)
-<br/>
 
 ## Side Projects & Studying
 
 * [<span style="color:Black">Algorithm study (2021.AUG~) </span>](https://github.com/kyuhunsim/algorithm)
-<br/>
 
 ## Tech Stack
 
