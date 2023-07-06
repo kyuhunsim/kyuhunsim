@@ -41,8 +41,8 @@
 
 
 
-[RISELAB]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=RISELAB&logo=RISELAB
-[Tistory]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e95420&logoColor=e95420&label=&message=Tistory&logo=Tistory
+[RISELAB]: https://img.shields.io/static/v1?style=for-the-badge&labelColor=212121&color=00599c&logoColor=00599c&label=&message=RISELAB&logo=RISE
+[Tistory]: https://img.shields.io/static/v1?style=for-the-badge&labelColor=212121&color=e95420&logoColor=e95420&label=&message=Tistory&logo=Tistory
 [c]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=C&logo=c&#A8B9CC
 [ROS]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=ROS&logo=Ros
 [numpy]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=numpy&logo=numpy
