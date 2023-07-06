@@ -11,9 +11,9 @@
 
 ## Personal Projects
 
-* [<span style="color:Black">Predicting car type by using Swin-Transformer V2 (2022.Oct ~ 2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
+* [<span style="color:Black"> Predicting car type by using Swin-Transformer V2 (2022.Oct ~ 2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
 <br/>
-* [<span style="color:Black">Deeplearning and MachineLearning Paper Review (2020.Feb~ ) </span>](https://github.com/kyuhunsim/Paper_Review)
+* [<span style="color:Black"> Deeplearning and Machinelearning Paper Review (2020.Feb~ ) </span>](https://github.com/kyuhunsim/Paper_Review)
 <br/>
 
 ## Side Projects & Studying
