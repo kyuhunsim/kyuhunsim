@@ -1,24 +1,44 @@
 # KyuHun Sim
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyuhunsim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### Github Stats
-
-[![Kyuhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuhunsim&show_icons=true)](https://github.com/kyuhunsim/github-readme-stats)
-
-### Baekjoon P.S
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyuhunsim)](https://solved.ac/kyuhunsim)
 
 
-<!--
-**kyuhunsim/kyuhunsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Projects
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side Projects & Studying
+
+<br/>
+
+## Tech Staack
+
+### Languages
+
+[![Python]](https://www.python.org/)
+[![C]](https://en.cppreference.com/w/c)
+<br/>
+
+### Libraries & Frameworks
+[![ROS]](https://www.ros.org/)
+[![numpy]](https://www.numpy.org)
+[![opencv]](https://www.opencv.org)
+[![Pytorch]](https://pytorch.org)
+[![scikit-learn]](https://scikit-learn.org/stable)
+<br/>
+
+### OS
+
+[![Ubuntu]](https://ubuntu.com/)
+<br/>
+
+
+[c]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=C&logo=c&#A8B9CC
+[ROS]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=ROS&logo=Ros
+[numpy]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00599c&logoColor=00599c&label=&message=numpy&logo=numpy
+[opencv]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=a8b9cc&logoColor=a8b9cc&label=&message=Opencv&logo=opencv
+[python]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
+[Ubuntu]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e95420&logoColor=e95420&label=&message=Ubuntu&logo=ubuntu&#E95420
+[Pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white
+[scikit-learn]:https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white
+[shields.io]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Shields.io&logo=shieldsdotio&#000000
+[simple icons]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=111111&logoColor=111111&label=&message=Simple%20Icons&logo=simple-icons&#111111
+[wakatime]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=WakaTime&logo=wakatime&#000000
