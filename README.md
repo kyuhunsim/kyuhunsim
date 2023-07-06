@@ -1,4 +1,4 @@
-# ** KyuHun Sim **
+# **_KyuHun Sim_**
 
 ## ABOUT ME
 ### I'm a student of SungKyunKwan University, I am in the Department of Mechanical Engineering.
