@@ -15,7 +15,7 @@
 
 ## Side Projects & Studying
 
-* [<span style="color:Black">Algorithm study </span>](https://github.com/Hyunwoo-Park-Yonsei/Path_Planning_RVIZ)
+* [<span style="color:Black">Algorithm study </span>](https://github.com/kyuhunsim/algorithm)
 <br/>
 
 ## Tech Staack
