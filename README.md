@@ -1,46 +1,35 @@
-# **_KyuHun Sim_**
+<h3> Hi there 👋 </h3>
 
-## ABOUT ME
-### I'm a student of SungKyunKwan University, I am in the Department of Mechanical Engineering.
-### I'm interested in ROBOT manipulation, ROBOT grasp quality, Computer vision
-### I'm a undergraduate student in SungKyunKwan University RISELAB
+<p>
+I'm a student of <b>SungKyunKwan University</b>, I am in the Department of Mechanical Engineering . 
+</p>
+<p>
+I'm interested in ROBOT manipulation, ROBOT grasp quality, Computer vision
+<p>
+I'm a undergraduate student in SungKyunKwan University RISELAB.
+</p>
 </br>
 
 [![Tistory]](https://zzskh.tistory.com)
-[![RISELAB]](https://rise.skku.edu)
 
-## :office: Career
-* NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/
-* RISELAB Intern (2023.Jun~) https://rise.skku.edu
+### 💻Careers
+NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/ </br>
+RISELAB Intern (2023.Jun~) https://rise.skku.edu </br>
+DEVOCEAN YOUNG 3rd generation (2024.Feb~) https://devocean.sk.com/community/youngList.do
 
-## Personal Projects
+### ✌️Tech Stack
 
-* [<span style="color:Black"> Predicting car type by using Swin-Transformer V2 (2022.Oct ~ 2023.Jan) </span>](https://github.com/kyuhunsim/Swin-Transformer)
-* [<span style="color:Black"> Deeplearning and Machinelearning Paper Review (2020.Feb~)</span>](https://github.com/kyuhunsim/Paper_Review)
-* [<span style="color:Black"> Car_detection project for the KMU autonomous driving contest (2023.Jul~)</span>](https://github.com/kyuhunsim/Car_detection)
-
-## Side Projects & Studying
-
-* [<span style="color:Black">Algorithm study (2021.AUG~) </span>](https://github.com/kyuhunsim/algorithm)
-
-## 💻Tech Stack
-
-### Languages
+#### Languages & Librarys & OS
 
 [![Python]](https://www.python.org/)
 [![C]](https://en.cppreference.com/w/c)
 <br/>
-
-### Libraries & Frameworks
 [![ROS]](https://www.ros.org/)
 [![numpy]](https://www.numpy.org)
 [![opencv]](https://www.opencv.org)
 [![Pytorch]](https://pytorch.org)
 [![scikit-learn]](https://scikit-learn.org/stable)
 <br/>
-
-### OS
-
 [![Ubuntu]](https://ubuntu.com/)
 <br/>
 
