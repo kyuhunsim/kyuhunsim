@@ -11,6 +11,7 @@ I'm a undergraduate student in SungKyunKwan University RISELAB.
 
 ### Careers💻
 NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/ </br>
+Deep Daiv CS229 TEAM LEADER (2022.July ~ 2022.Oct) </br>
 RISELAB Intern (2023.Jun~) https://rise.skku.edu </br>
 DEVOCEAN YOUNG 3rd generation (2024.Feb~) https://devocean.sk.com/community/youngList.do
 
