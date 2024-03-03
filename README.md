@@ -8,16 +8,13 @@ I'm interested in ROBOT manipulation, ROBOT grasp quality, Computer vision
 <p>
 I'm a undergraduate student in SungKyunKwan University RISELAB.
 </p>
-</br>
 
-[![Tistory]](https://zzskh.tistory.com)
-
-### 💻Careers
+### Careers💻
 NuviLabs Intern (2019.Dec ~ 2020.Mar) https://www.nuvi-labs.com/ </br>
 RISELAB Intern (2023.Jun~) https://rise.skku.edu </br>
 DEVOCEAN YOUNG 3rd generation (2024.Feb~) https://devocean.sk.com/community/youngList.do
 
-### ✌️Tech Stack
+### Tech Stack✌️
 
 #### Languages & Librarys & OS
 
